@@ -40,27 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Professor of Chemistry and Forensic Science
+          company: Maryville University
+          company_url: 'http://www.maryville.edu'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Missouri
+          date_start: '2021-08-25'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Forensic Science Program Director
+              * Teaching
+              * Undergraduate Research
+        - title: COO
+          company: Spectrum Perception
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
+          date_start: '2014-03-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Developing of a low-volume photometer micropipette for UV analysis.
     design:
       columns: '2'
   - block: accomplishments
