@@ -57,7 +57,7 @@ sections:
           company: Spectrum Perception, LLC
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Missouri
           date_start: '2014-03-01'
           date_end: ''
           description: Developing of a low-volume photometer micropipette for UV analysis.
