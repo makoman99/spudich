@@ -45,7 +45,7 @@ sections:
           company_url: 'http://www.maryville.edu'
           company_logo: org-gc
           location: Missouri
-          date_start: '2021-08-25'
+          date_start: '2011-08-15'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -54,12 +54,12 @@ sections:
               * Teaching
               * Undergraduate Research
         - title: COO
-          company: Spectrum Perception
+          company: Spectrum Perception, LLC
           company_url: ''
           company_logo: org-x
           location: California
           date_start: '2014-03-01'
-          date_end: '2020-12-31'
+          date_end: ''
           description: Developing of a low-volume photometer micropipette for UV analysis.
     design:
       columns: '2'
